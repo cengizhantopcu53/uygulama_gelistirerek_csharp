@@ -1,0 +1,16 @@
+C:\Users\cengi\Desktop\OkulProjesi\bin\Debug\OkulProjesi.exe.config
+C:\Users\cengi\Desktop\OkulProjesi\bin\Debug\OkulProjesi.exe
+C:\Users\cengi\Desktop\OkulProjesi\bin\Debug\OkulProjesi.pdb
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.csprojAssemblyReference.cache
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.Properties.Resources.resources
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.csproj.GenerateResource.cache
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.exe
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.pdb
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.FrmOkulGiriş.resources
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.FrmKulup.resources
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.FrmDers.resources
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.FrmOgrenci.resources
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.FrmOgretmenDetay.resources
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.FrmOgrenciDetay.resources
+C:\Users\cengi\Desktop\OkulProjesi\obj\Debug\OkulProjesi.FrmSınav.resources
