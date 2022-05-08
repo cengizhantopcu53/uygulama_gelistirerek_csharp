@@ -25,19 +25,3 @@ Uygulama Geliştirerek C#
 10 Dosya İşlemleri
 
 11 Hata Kontrolleri
-
-12 Veri Tabanı SQL
-
-13 Hastane Yönetim ve Randevu Sistemi Otomasyon Projesi
-
-14 Access Veri Tabanı
-
-15 İlişkili Tablolar İle E-Okul Benzeri Uygulama
-
-16 Dataset İle Crud İşlemleri
-
-17 Entity Framework
-
-18 Linq Sorgular
-
-19 OOP İle N Katmanlı Mimaride Proje Geliştirme
